@@ -1,6 +1,6 @@
-# shin design — Portfolio
+# tema zero — Portfolio
 
-個人事業のためのウェブサイト制作 / shin design (石川しん) のポートフォリオサイト。
+個人事業のためのウェブサイト制作 / tema zero (石川) のポートフォリオサイト。
 
 - 公開URL: https://tema-zero.jp/
 - お問い合わせ: info@tema-zero.jp
